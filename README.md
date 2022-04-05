@@ -22,4 +22,4 @@ esta red de redes global empezó a principios de la década de 1970 como una red
  ### Lan 
  Está diseñada para conectar computadoras personales y otros dispositivos digitales dentro de un radio de media milla o 500 metros. 
 
- ## repasar lo veosidad de descarga 
+ ## repasar la veosidad de descarga 
